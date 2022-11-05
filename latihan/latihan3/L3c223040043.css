@@ -1,0 +1,32 @@
+body {
+  background-color: aqua;
+  font-family: georgia;
+}
+h1 {
+  font-family: comic sans ms;
+  font-size: 60px;
+  color: darkblue;
+}
+h4 {
+  text-align: right;
+  font-style: italic;
+}
+
+.tulisan-putih {
+  color: white;
+}
+.paragraf-tengah {
+  text-align: center;
+}
+.paragraf-kanan {
+  text-align: right;
+}
+.tulisan-orange {
+  color: orange;
+}
+
+p a {
+  text-decoration: none;
+  font-weight: bold;
+  color: blue;
+}
